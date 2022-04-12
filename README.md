@@ -19,6 +19,9 @@ deployment can be on any web server or even loval file system.
 
 ## How To Contribute
 
+Please fork repository and then issue Pull Requests for 
+review.
+
 ### Copyright
 
 Git. Training.
